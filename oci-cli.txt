@@ -1,0 +1,6 @@
+https://docs.oracle.com/en-us/iaas/tools/oci-cli/latest/oci_cli_docs/
+
+
+location of the OCI config. 
+cat .oci/config
+
